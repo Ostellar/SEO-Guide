@@ -15,7 +15,7 @@ For example, this text link will lead you to a Wikipedia page about Anchor Text.
 ### How to create an Anchor Text
 Using HTML code, you can simply create an anchor text:
 
-<a href="http://www.yourdomain.com">Anchor Text</a>
+`<a href="http://www.yourdomain.com">Anchor Text</a>`
 For WordPress users or similar Content Management Systems:
 ![4 steps to create an anchor text in wordpress](https://www.ostellar.com/wp-content/uploads/2019/03/how-to-create-anchor-text-in-wordpress.jpg)
 
@@ -52,7 +52,7 @@ True that… Just not long before Google made a huge change in its algorithm.
 
 ### Google fought back its vulnerability in Anchor Text
 
-Back in April 2012, when the Penguin Update was launched by Google that rock the world of SEO. It aims to provide a remedy to the weakness of Google’s system.
+Back in April 2012, when the [Penguin Update](https://searchengineland.com/library/google/google-penguin-update) was launched by Google that rock the world of SEO. It aims to provide a remedy to the weakness of Google’s system.
 
 Before this core update, the algorithm of Google could be easily manipulated by spammy links, exact match keywords as anchor texts, leading to high ranking results on Google.
 
@@ -99,7 +99,7 @@ Considering the above example again, with “digital marketing” as the target 
 As you can see the main keyword is present with some add-ons, they make the anchor text partial, which differentiates this type from the exact match.
 
 ### 3. Branded Anchor Text
-In short, a branded anchor text simply is just your brand name (if you have a branded domain). Like our agency’s name OSTELLAR.
+In short, a branded anchor text simply is just your brand name (if you have a branded domain). Like our agency’s name [OSTELLAR](https://www.ostellar.com/).
 
 Using a branded anchor is foreseen as the most healthy practice so far as Google tends to love brands and it’s what a reputable company should look like.
 
@@ -142,7 +142,7 @@ It’s pretty common to see images that are used as clickable links. Keywords ca
 
 To illustrate, this is an HTML code of an image link:
 
-<a href="http://www.example.com"><img alt="put-anchor-text-here" src="source/picture-name.jpg"></a>
+`<a href="http://www.example.com"><img alt="put-anchor-text-here" src="source/picture-name.jpg"></a>`
 
 ### 8. LSI Keywords (Synonym)
 Latent Semantic Indexing or LSI keywords are thematically related. It is a system that Google and other search engines use in analyzing other words/phrases that people use in searching for a particular topic. By leveraging LSI keywords, we could find many excellent ideas applying into anchor texts.
@@ -185,7 +185,7 @@ For anyone using exact match domains (EMD).
 
 Unless your business has a unique brand name, your branded anchors will count as exact match anchors. Hence, your site will easily end up getting penalized or sandboxed for over-using keyword anchors (even you don’t intend to do that).
 
-In fact, EMDs have been devalued from a long time ago, officially announced by Matt Cutts – The former head of Google web spam fighting team.
+In fact, EMDs have been devalued from a long time ago, [officially announced](https://twitter.com/mattcutts/status/251784203597910016) by Matt Cutts – The former head of Google web spam fighting team.
 
 A temporary solution for this is to use naked link anchors as an alternative for the branded one. However, it’s still not as efficient as if you have an actual branded domain (or at least partial match). So I highly recommend you getting one as soon as possible. The process could be longer as you have to start over, but definitely worth it in the long run.
 
@@ -223,11 +223,11 @@ This is a must – tracking your anchor texts no matter you’re building backli
 One simple way to get this done is by using Ahrefs Backlink Checker. Better paying attention to Referring domains instead of the other 2 columns.
 
 Anchor texts tracking using Ahrefs
-Anchors section in Ahrefs Backlink Checker
+![Anchors section in Ahrefs Backlink Checker](https://www.ostellar.com/wp-content/uploads/2019/03/ahrefs-anchors-track.jpg)
 There’re also other options of monitoring tools such as SEMrush, Moz, and Monitor Backlinks. This step is pretty important in the process of your link building campaign which affects your ranking, traffic and lead generation.
 
 ### Don’t Ignore Links on Social Media Pages
-You probably think that links coming from Facebook, Twitter, Pinterest, and other social media sites don’t have much power because most of them are nofollow and naked link anchors.
+You probably think that links coming from Facebook, Twitter, Pinterest, and other social media sites don’t have much power because most of them are [nofollow](https://support.google.com/webmasters/answer/96569) and naked link anchors.
 
 Yup, you’re right. Nonetheless, they can still be useable for the purpose of boosting the number of naked link anchors which will be likely to diversify the anchor text distribution. Plus, that can somehow help to increase your domain authority even just a little bit as those are top of the world domains.
 
@@ -241,5 +241,5 @@ Now that you’re more confident to create and utilize anchor texts in general u
 
 Which action or trick will you choose to optimize your anchor texts and why? Let me know in the comments below!
 
-** Author: Robert Nguyen **
-** Source: https://www.ostellar.com/blog/anchor-text **
+**Author: Robert Nguyen**
+**Source: https://www.ostellar.com/blog/anchor-text**
