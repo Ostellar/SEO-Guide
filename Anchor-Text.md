@@ -244,4 +244,5 @@ Now that you’re more confident to create and utilize anchor texts in general u
 Which action or trick will you choose to optimize your anchor texts and why? Let me know in the comments below!
 
 **Author: Robert Nguyen**
+
 **Source: https://www.ostellar.com/blog/anchor-text**
