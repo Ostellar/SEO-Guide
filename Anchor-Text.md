@@ -4,6 +4,8 @@ Whether you’re an SEO-er, a blogger, a content editor, an internet marketer, o
 
 In this guide, I’m going to walk you through the term Anchor Text in detail, its facts, uses, types, and best practices using the simplest concepts, so you can apply them right into any SEO campaign for a successful online presence.
 
+![Anchor Text Guide by OSTELLAR](https://www.ostellar.com/wp-content/uploads/2019/04/anchor-text-ostellar.png)
+
 
 ## What is Anchor Text? What Does It Look Like?
 Anchor text refers to a text found in a blog, article, or any web content that links to another web page.
@@ -172,13 +174,13 @@ The last thing you want to happen is over-optimizing your anchor texts that may 
 ### Distribute Your Anchor Texts Wisely
 Make sure to use different types or categories of anchor text. While it’s difficult to say the ideal distribution of anchor texts for all niches, you can follow this recommended guide:
 
-Exact Match + LSI: < 5%
-Partial Match: < 5%
-Branded: 40%
-Branded + Keyword: 10%
-Naked Link: > 25%
-Long Tail: 5%
-Image/Generic/Others: 5%
+* Exact Match + LSI: < 5%
+* Partial Match: < 5%
+* Branded: 40%
+* Branded + Keyword: 10%
+* Naked Link: > 25%
+* Long Tail: 5%
+* Image/Generic/Others: 5%
 Note: This guide is for general purposes. It’s important to do in-depth research to fully understand the distribution of anchor texts of the top-performing websites in your niche or industry. Doing so will give you a better idea of the proper percentages of the different types of anchors to your website.
 
 For anyone using exact match domains (EMD).
